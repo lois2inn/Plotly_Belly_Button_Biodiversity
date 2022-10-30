@@ -19,6 +19,14 @@ The project aims to help a biological researcher discover and document unknown b
 - CSS
 - D3
 - Bootstrap 3.3.7
-- Participant samples data
+- Sample data from research participants
 
 ## Results
+
+
+The webpage is customized as below:
+- An image is added to jumbotron.
+- Information about the project is added as a paragraph on the dashboard.
+- The webpage is mobile responsive. 
+- Bootstrap classes are added to customize charts.
+
