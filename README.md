@@ -35,7 +35,8 @@ The project aims to help a biological researcher discover and document unknown b
   <img src="images/customizations.png" width="500"/>
 
   - The webpage is mobile responsive. 
-  - Bootstrap classes are added to customize charts.
+  - Bootstrap and HTML/CSS classes are added to customize charts.
+  - The font style of the dashboard is changed.
   <table>
     <tr>
       <td><img src="images/mobile_r1.png" width="300"/></td>
