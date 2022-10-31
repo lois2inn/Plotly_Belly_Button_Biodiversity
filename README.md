@@ -24,23 +24,22 @@ The project aims to help a biological researcher discover and document unknown b
 ## Results
 
 - The dashboard displays participant ID: 940's data in the demographic panel and the three charts when first opened in the browser.
-<img src="images/landing.png" width="500"/>
+<img src="static/images/landing.png" width="500"/>
 
 - When another sample is selected, the dashboard displays the data in the panel and all three charts accordingly.
-<img src="images/onchange.png" width="500"/>
+<img src="static/images/onchange.png" width="500"/>
 
 - The webpage is customized as below:
   - An image is added to jumbotron.
   - Information about the project is added as a paragraph on the dashboard.
-  <img src="images/customizations.png" width="500"/>
+  <img src="static/images/customizations.png" width="500"/>
 
   - The webpage is mobile responsive. 
   - Bootstrap and HTML/CSS classes are added to customize charts.
-  - The font style of the dashboard is changed.
   <table>
     <tr>
-      <td><img src="images/mobile_r1.png" width="300"/></td>
-      <td><img src="images/mobile_r2.png" width="300"/></td>
+      <td><img src="static/images/mobile_r1.png" width="300"/></td>
+      <td><img src="static/images/mobile_r2.png" width="300"/></td>
     </tr>
   </table>
 
